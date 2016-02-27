@@ -1,6 +1,6 @@
 # Footer navigation links
 
-- title: <li><a href="https://twitter.com/gazeti"><i class='fa fa-twitter-square'></i> twitter.com/gazeti</a></li>
+- title: <li><i class='fa fa-twitter-square'></i> twitter.com/gazeti</li>
   url: https://twitter.com/gazeti
  
 - title: <li><a href="https://github.com/khandelwal"><i class='fa fa-github-square'></i> github.com/khandelwal</a></li>
