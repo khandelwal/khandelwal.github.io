@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description: khandelwal
+title: Shashank Khandelwal
+description: Personal website
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: http://khandelwal.github.io
 
 # Jekyll configuration
 
