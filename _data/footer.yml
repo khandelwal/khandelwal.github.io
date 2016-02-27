@@ -1,5 +1,8 @@
 # Footer navigation links
 
+- title:<i class='fa fa-twitter-square'></i>twitter.com/gazeti
+  url: https://twitter.com/gazeti
+
 - title:<li><a href="https://twitter.com/gazeti"><i class='fa fa-twitter-square'></i>twitter.com/gazeti</a></li>
   url: https://twitter.com/gazeti
  
