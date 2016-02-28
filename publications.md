@@ -9,11 +9,11 @@ author: false
 
 ## 2013
 
-Marcel Salathe, Duy Q. Vu, Shashank Khandelwal, David R. Hunter
+Marcel Salathe, Duy Q. Vu, Shashank Khandelwal, David R. Hunter  
 
-The Dynamics of Health Behavior Sentiments on a Large Online Social Network
+The Dynamics of Health Behavior Sentiments on a Large Online Social Network  
 
-EPJ Data Science, 2:4 (2013) 
+EPJ Data Science, 2:4 (2013)
 
 ## 2012
 
