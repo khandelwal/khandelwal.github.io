@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: "Latest Posts"
 image:
-  feature: iceland-sunrise.jpg
+  feature: iceland-sunrise-2.jpg
 ---
 
 <div class="tiles">
