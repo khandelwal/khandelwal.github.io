@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+image:
+  feature: iceland-sunrise.jpg
 ---
 
 <div class="tiles">
