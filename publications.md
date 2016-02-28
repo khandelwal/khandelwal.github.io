@@ -15,7 +15,7 @@ Marcel Salathe, Duy Q. Vu, Shashank Khandelwal, David R. Hunter
 The Dynamics of Health Behavior Sentiments on a Large Online Social Network
 EPJ Data Science, 2:4 (2013)
 
-This line is also a separate paragraph, but...
+This line is also a separate paragraph, but...   
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
 
 ## 2012
