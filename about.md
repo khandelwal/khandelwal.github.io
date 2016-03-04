@@ -9,6 +9,5 @@ share: false
 author: false
 ---
 
-# Hello
 
-I'm Shashank, I live in Rockville. 
+I live in Rockville, MD with my (http://www.sbansal.com)[wife]. 
