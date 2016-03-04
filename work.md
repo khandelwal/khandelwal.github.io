@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /work/
 title: "Work"
 layout: article
 date: 2014-06-01
