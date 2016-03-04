@@ -10,4 +10,5 @@ author: false
 ---
 
 
-I live in Rockville, MD with my [http://www.sbansal.com](wife). 
+I grew up in Dar Es Salaam, Tanzania but now live in Rockville, MD with my
+[wife](http://www.sbansal.com). 
