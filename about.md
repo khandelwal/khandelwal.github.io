@@ -11,7 +11,7 @@ author: false
 
 <figure>
 	<img src="http://khandelwal.github.io/images/portrait-18f.jpg">
-	<figcaption>Photograph by Jennifer Thibault</figcaption>
+	<figcaption>Photographed by Jennifer Thibault</figcaption>
 </figure>
 
 My first name is pronounced *shuh-shaank*. 
