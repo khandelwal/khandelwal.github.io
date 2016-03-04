@@ -9,6 +9,12 @@ author: false
 
 My [Erdős](https://en.wikipedia.org/wiki/Erd%C5%91s_number) number is 4. 
 
+## 2014
+
+P. Yin, N. Ram, E.C. Lee C.S. Tucker, S. Khandelwal, M. Salathé   
+[Two Sides of a Coin: Separating Personal Communication and Public Dissemination Accounts in Twitter](http://link.springer.com/chapter/10.1007/978-3-319-06608-0_14)
+Advances in Knowledge Discovery and Data Mining 163-175(2014)
+
 ## 2013
 
 Marcel Salathe, Duy Q. Vu, Shashank Khandelwal, David R. Hunter   
