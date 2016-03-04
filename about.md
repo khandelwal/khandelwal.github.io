@@ -1,11 +1,11 @@
 ---
 permalink: /about/
 title: "About"
-layout: archive
+layout: article
 date: 2014-06-01
 modified: 2016-02-11
 image:
-	feature: portrait-18f.jpg
+  feature: portrait-18f.jpg
 ads: false
 share: false
 author: false
