@@ -4,12 +4,15 @@ title: "About"
 layout: article
 date: 2014-06-01
 modified: 2016-02-11
-image:
-  feature: portrait-18f.jpg
 ads: false
 share: false
 author: false
 ---
+
+<figure>
+	<img src="http://khandelwal.github.io/images/portrait-18f.jpg">
+	<figcaption>Photograph by Jennifer Thibault</figcaption>
+</figure>
 
 My first name is pronounced *shuh-shaank*. 
 
