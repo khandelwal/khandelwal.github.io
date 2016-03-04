@@ -9,6 +9,8 @@ share: false
 author: false
 ---
 
+My first name is pronounced *shuh-shaank*. 
+
 
 I grew up in Dar Es Salaam, Tanzania. I now live in Rockville, Maryland with my
 [wife](http://www.sbansal.com). We travel the world when we can, and are always
