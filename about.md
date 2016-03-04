@@ -10,4 +10,4 @@ author: false
 ---
 
 
-I live in Rockville, MD with my (http://www.sbansal.com)[wife]. 
+I live in Rockville, MD with my [http://www.sbansal.com](wife). 
