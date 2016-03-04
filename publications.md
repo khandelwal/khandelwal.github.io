@@ -12,13 +12,13 @@ My [Erdős](https://en.wikipedia.org/wiki/Erd%C5%91s_number) number is 4.
 ## 2013
 
 Marcel Salathe, Duy Q. Vu, Shashank Khandelwal, David R. Hunter   
-The Dynamics of Health Behavior Sentiments on a Large Online Social Network   
+[The Dynamics of Health Behavior Sentiments on a Large Online Social Network](http://epjdatascience.springeropen.com/articles/10.1140/epjds16)  
 EPJ Data Science, 2:4 (2013)
 
 ## 2012
 
 M. Salathe, Linus Bengtsson, Todd J. Bodnar, Devon D. Brewer, John S. Brownstein, Caroline Buckee, Ellsworth M. Campbell, Ciro Cattuto, Shashank Khandelwal, Patricia L. Mabry and Alessandro Vespignani.   
-Digital Epidemiology   
+[Digital Epidemiology](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002616)   
 PLoS Comput Biol 8(7): e1002616 (2012)
 
 ## 2011
