@@ -7,6 +7,8 @@ share: false
 author: false
 ---
 
+My [Erdős](https://en.wikipedia.org/wiki/Erd%C5%91s_number) number is 4. 
+
 ## 2013
 
 Marcel Salathe, Duy Q. Vu, Shashank Khandelwal, David R. Hunter   
