@@ -17,7 +17,7 @@ the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/).
 
 ## Writing 
 
-* [Automating, enhancing, and improving eRegulations](https://cfpb.github.io/articles/automating-enhancing-improving-eregulations/)
+[Automating, enhancing, and improving eRegulations](https://cfpb.github.io/articles/automating-enhancing-improving-eregulations/)
 
 ## Talks
 
