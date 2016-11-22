@@ -5,9 +5,13 @@ title: "Hello."
 ads: false
 share: false
 author: false
-image:
-  feature: iceland-sunrise-2.jpg
 ---
+<figure>
+	<img src="http://khandelwal.github.io/images/iceland-sunrise-2.jpg" alt="Shashank in front of the Department of Interior">
+	<figcaption>Photographed by Jennifer Thibault</figcaption>
+</figure>
+
+
 I'm Shashank Khandelwal.
 
 I am a software engineer who enjoys helping organizations adopt modern software
