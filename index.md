@@ -2,6 +2,9 @@
 layout: article 
 permalink: /
 title: "Hello."
+ads: false
+share: false
+author: false
 image:
   feature: iceland-sunrise-2.jpg
 ---
