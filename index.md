@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: article 
 permalink: /
-title: "Latest Posts"
+title: "Hello."
 image:
   feature: iceland-sunrise-2.jpg
 ---
@@ -13,4 +13,3 @@ development, product and project management practices.
 
 I current work at 18F as Deputy Director of Transformation Services where I'm
 trying to transform the federal government one agency at a time.
-
