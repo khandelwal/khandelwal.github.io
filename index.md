@@ -8,7 +8,6 @@ author: false
 image:
   feature: iceland-sunrise-2.jpg
 ---
-
 I'm Shashank Khandelwal.
 
 I am a software engineer who enjoys helping organizations adopt modern software
