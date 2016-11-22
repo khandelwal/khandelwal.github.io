@@ -9,7 +9,7 @@ share: false
 author: false
 ---
 
-<figure>
+<figure width="200">
 	<img src="http://khandelwal.github.io/images/portrait-18f.jpg" alt="Shashank in front of the Department of Interior">
 	<figcaption>Photographed by Jennifer Thibault</figcaption>
 </figure>
