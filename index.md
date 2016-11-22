@@ -9,7 +9,7 @@ image:
   feature: iceland-sunrise-2.jpg
 ---
 
-Hello there. I'm Shashank Khandelwal.
+I'm Shashank Khandelwal.
 
 I am a software engineer who enjoys helping organizations adopt modern software
 development, product and project management practices.
