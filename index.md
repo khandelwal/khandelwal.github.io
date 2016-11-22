@@ -7,8 +7,8 @@ share: false
 author: false
 ---
 <figure>
-	<img src="http://khandelwal.github.io/images/iceland-sunrise-2.jpg" alt="Shashank in front of the Department of Interior">
-	<figcaption>Photographed by Jennifer Thibault</figcaption>
+	<img src="http://khandelwal.github.io/images/iceland-sunrise-2.jpg" alt="Sunrise over a snowy mountain">
+	<figcaption>Sunrise on the roadside outside Reykjavik, Iceland.</figcaption>
 </figure>
 
 
