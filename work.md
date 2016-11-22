@@ -21,6 +21,6 @@ the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/).
 
 ## Talks
 
-[Making Federal Regulations Readable with Python](http://bit.ly/1tWgbw5)
-O'Reilly Open Source Conference (OSCON)
+[Making Federal Regulations Readable with Python](http://bit.ly/1tWgbw5)  
+O'Reilly Open Source Conference (OSCON)  
 2014
