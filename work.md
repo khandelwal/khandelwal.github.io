@@ -22,7 +22,7 @@ the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/).
 
 [OpenFOIA](https://open.foia.gov)
 
-[eRegulations](https://consumerfinance.gov/eregulations)  
+[eRegulations](http://consumerfinance.gov/eregulations)  
 
 [CrowdBreaks](http://www.crowdbreaks.com)
 
