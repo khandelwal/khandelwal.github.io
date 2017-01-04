@@ -42,5 +42,5 @@ O'Reilly Open Source Conference (OSCON)
 Georgetown University
 2014
 
-<iframe src="https://player.vimeo.com/video/135823643?portrait=0" width="320" height="180" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/135823643?portrait=0" width="160" height="90" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/135823643">&quot;We&#039;re going to do it agile.&quot;</a> from <a href="https://vimeo.com/user39728232">Alexandra Christy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
