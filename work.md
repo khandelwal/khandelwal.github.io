@@ -26,13 +26,13 @@ the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/).
 
 [CrowdBreaks](http://www.crowdbreaks.com)
 
-### Writing and Workshops
+### Writing
 
 [Automating, enhancing, and improving eRegulations](https://cfpb.github.io/articles/automating-enhancing-improving-eregulations/)  
 
-[User story mapping and release planning](https://pages.18f.gov/digitalaccelerator/assets/workshop-day-three.pdf)
+### Talks, Teaching and Workshops
 
-### Talks + Teaching
+[User story mapping and release planning](https://pages.18f.gov/digitalaccelerator/assets/workshop-day-three.pdf)
 
 [Making Federal Regulations Readable with Python](http://bit.ly/1tWgbw5)  
 O'Reilly Open Source Conference (OSCON)  
