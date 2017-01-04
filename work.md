@@ -38,5 +38,5 @@ the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/).
 O'Reilly Open Source Conference (OSCON)  
 2014
 
-[Short course on Python for Biologists](https://github.com/khandelwal/hoya-python/wiki)
+[Short course on Python for Biologists](https://github.com/khandelwal/hoya-python/wiki)  
 Georgetown University
