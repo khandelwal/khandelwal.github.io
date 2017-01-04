@@ -32,8 +32,11 @@ the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/).
 
 [User story mapping and release planning](https://pages.18f.gov/digitalaccelerator/assets/workshop-day-three.pdf)
 
-### Talks
+### Talks + Teaching
 
 [Making Federal Regulations Readable with Python](http://bit.ly/1tWgbw5)  
 O'Reilly Open Source Conference (OSCON)  
 2014
+
+[Short course on Python for Biologists](https://github.com/khandelwal/hoya-python/wiki)
+Georgetown University
