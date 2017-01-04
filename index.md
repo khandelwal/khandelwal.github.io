@@ -11,10 +11,7 @@ author: false
 	<figcaption>Sunrise on the roadside outside Reykjavik, Iceland.</figcaption>
 </figure>
 
-
-I'm Shashank Khandelwal.
-
-I am a software engineer who enjoys helping organizations adopt modern software
+I am a technology leader and software engineer who enjoys helping organizations adopt modern software
 development, product and project management practices.
 
 I current work at [18F](https://18f.gsa.gov) as Deputy Director of
